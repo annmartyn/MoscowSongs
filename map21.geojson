@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "song": "Фестиваль - Комсомольск"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62894630432128,
+          55.751028221137744
+        ]
+      }
+    }
+  ]
+}
